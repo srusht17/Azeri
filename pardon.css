@@ -1,0 +1,21 @@
+body{
+    padding-top: 70px;
+    background-color: beige;
+}
+
+.navbar{
+    background-color: beige;
+}
+.navbar-light .navbar-brand{
+    font-size: 1.6rem;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(n.png);
+}
+
+.navbar-light .navbar-toggler {
+    background-color: transparent;
+        border-color: rgba(0,0,0,0);
+
+}
